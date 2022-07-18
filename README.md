@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [viktorturla.com](viktorturla.com)
+- 👨‍💻 All of my projects are available at [viktorturla.com](http://viktorturla.com)
 
 - 📫 How to reach me **viktorturla@gmail.com**
 
