@@ -13,8 +13,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at [viktorturla.com](http://viktorturla.com) -->
 
-- 📫 How to reach me **viktorturla@gmail.com**
-
 <hr />
 
 <h3 align="left">Languages and Tools:</h3>
