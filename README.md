@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorydev&label=Profile%20views&color=0e75b6&style=flat" alt="viktorydev" /> </p>
 
-- 🌱 I’m currently learning **React**
-
 <!-- - 👨‍💻 All of my projects are available at [viktorturla.com](http://viktorturla.com) -->
 
 <hr />
