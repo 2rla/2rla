@@ -31,7 +31,7 @@
 </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viktorydev&show_icons=true&theme=tokyonight&locale=en" alt="viktorydev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2rla&show_icons=true&theme=tokyonight&locale=en" alt="viktorydev" /></p>
 
 <!--
 **ViktoryDev/ViktoryDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
